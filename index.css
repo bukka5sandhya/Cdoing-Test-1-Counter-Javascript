@@ -1,0 +1,17 @@
+.counter-value{
+    font-size: 30px;
+    font-family: 'Roboto';
+    font-weight:900;
+
+}
+.button{
+    background-color:#0967d2 ;
+    color:#ffffff;
+    font-size: 14px;
+    border-width: 0px;
+    border: none;
+    border-radius: 4px;
+    padding:10px;
+    cursor: pointer;
+
+}
